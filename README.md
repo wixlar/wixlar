@@ -1,7 +1,7 @@
 Wixlarcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/Wixlarcoin-project/wixlarcoin.svg?branch=master)](https://travis-ci.org/wixlarcoin-project/wixlarcoin)
+[![Build Status](https://api.travis-ci.org/wixlar/WixlarCoin.svg?branch=master)](https://travis-ci.org/wixlar/WixlarCoin)
 
 https://Wixlar.com
 
