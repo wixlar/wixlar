@@ -1,10 +1,6 @@
 <!--- Remove sections that do not apply -->
 
-This issue tracker is only for technical issues related to litecoin-core.
-
-General litecoin questions and/or support requests and are best directed to the [litecointalk.io forums](https://litecointalk.io/).
-
-For reporting security issues, please contact the Litecoin developers on the #litecoin-dev Freenode IRC channel or alternatively you can email us at contact@litecoin.org.
+This issue tracker is only for technical issues related to wixlarcoin-core.
 
 ### Describe the issue
 
