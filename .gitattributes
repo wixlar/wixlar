@@ -1,2 +1,1 @@
 src/clientversion.cpp export-subst
-src/clientversion.cpp import-subst
